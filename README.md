@@ -35,10 +35,10 @@ Este repositório contém implementaração do projeto **Trybewarts** da Trybe, 
 
 ## 📁 Estrutura do Projeto
     pixels-art/
-    ├── index.html          
-    ├── script.js           
+    ├── .gitignore          
+    ├── index.html
     ├── style.css           
-    ├── .gitignore
+    ├── script.js           
     └── README.md
 
 ## ▶️ Como Executar o Projeto
